@@ -1,2 +1,2 @@
-Add email and password in the .env file.
-To run the project: go run main.go
+- Add email and password in the .env file.
+- To run the project: go run main.go
